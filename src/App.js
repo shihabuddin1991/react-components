@@ -3,6 +3,7 @@ import Laptop from "./components/Laptop";
 import Mobile from "./components/Mobile";
 import Light from "./components/Light";
 import Book from "./components/Book";
+import Car from "./components/Car";
  
   const  App=() =>{
     return <div>
@@ -15,6 +16,8 @@ import Book from "./components/Book";
             <Light/>
             
             <Book/>
+            <Car/>
+            
             
             
             

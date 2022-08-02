@@ -1,9 +1,9 @@
 const MobileStyle={color:"white",
-                background:"green",
+                background:"red",
                 textAlign:"center",
                 margin:"18px",
-                padding:"20px",
-                fontSize:"20px"
+                padding:"25px",
+                fontSize:"30px"
 }
 
 const Mobile=()=>{

@@ -1,9 +1,9 @@
-const LightStyle={color:"white",
-                background:"green",
+const LightStyle={color:"black",
+                background:"yellow",
                 textAlign:"center",
                 margin:"18px",
                 padding:"20px",
-                fontSize:"20px"
+                fontSize:"30px"
 }
 
 

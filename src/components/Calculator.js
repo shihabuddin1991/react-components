@@ -1,9 +1,9 @@
 const CalculatorStyle={color:"white",
-                background:"green",
+                background:"gray",
                 textAlign:"center",
                 margin:"18px",
-                padding:"20px",
-                fontSize:"20px",
+                padding:"40px",
+                fontSize:"30px",
                 
 }
 
