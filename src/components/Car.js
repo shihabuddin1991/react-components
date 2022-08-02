@@ -1,5 +1,5 @@
 const CarStyle={color:"white",
-                background:"black",
+                background:"red",
                 textAlign:"center",
                 margin:"18px",
                 padding:"20px",
